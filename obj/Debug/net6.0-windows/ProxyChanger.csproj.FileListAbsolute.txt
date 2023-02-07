@@ -1,0 +1,17 @@
+F:\VisualStudio\ProxyChanger\ProxyChanger\bin\Debug\net6.0-windows\ProxyChanger.exe
+F:\VisualStudio\ProxyChanger\ProxyChanger\bin\Debug\net6.0-windows\ProxyChanger.deps.json
+F:\VisualStudio\ProxyChanger\ProxyChanger\bin\Debug\net6.0-windows\ProxyChanger.runtimeconfig.json
+F:\VisualStudio\ProxyChanger\ProxyChanger\bin\Debug\net6.0-windows\ProxyChanger.dll
+F:\VisualStudio\ProxyChanger\ProxyChanger\bin\Debug\net6.0-windows\ProxyChanger.pdb
+F:\VisualStudio\ProxyChanger\ProxyChanger\obj\Debug\net6.0-windows\ProxyChanger.csproj.AssemblyReference.cache
+F:\VisualStudio\ProxyChanger\ProxyChanger\obj\Debug\net6.0-windows\ProxyChanger.Form1.resources
+F:\VisualStudio\ProxyChanger\ProxyChanger\obj\Debug\net6.0-windows\ProxyChanger.csproj.GenerateResource.cache
+F:\VisualStudio\ProxyChanger\ProxyChanger\obj\Debug\net6.0-windows\ProxyChanger.GeneratedMSBuildEditorConfig.editorconfig
+F:\VisualStudio\ProxyChanger\ProxyChanger\obj\Debug\net6.0-windows\ProxyChanger.AssemblyInfoInputs.cache
+F:\VisualStudio\ProxyChanger\ProxyChanger\obj\Debug\net6.0-windows\ProxyChanger.AssemblyInfo.cs
+F:\VisualStudio\ProxyChanger\ProxyChanger\obj\Debug\net6.0-windows\ProxyChanger.csproj.CoreCompileInputs.cache
+F:\VisualStudio\ProxyChanger\ProxyChanger\obj\Debug\net6.0-windows\ProxyChanger.dll
+F:\VisualStudio\ProxyChanger\ProxyChanger\obj\Debug\net6.0-windows\refint\ProxyChanger.dll
+F:\VisualStudio\ProxyChanger\ProxyChanger\obj\Debug\net6.0-windows\ProxyChanger.pdb
+F:\VisualStudio\ProxyChanger\ProxyChanger\obj\Debug\net6.0-windows\ProxyChanger.genruntimeconfig.cache
+F:\VisualStudio\ProxyChanger\ProxyChanger\obj\Debug\net6.0-windows\ref\ProxyChanger.dll
